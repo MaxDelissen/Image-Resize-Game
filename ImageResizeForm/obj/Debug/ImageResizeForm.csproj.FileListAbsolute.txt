@@ -1,0 +1,10 @@
+C:\Users\maxde\RiderProjects\ImageResizeGame\ImageResizeForm\bin\Debug\ImageResizeForm.exe.config
+C:\Users\maxde\RiderProjects\ImageResizeGame\ImageResizeForm\bin\Debug\ImageResizeForm.exe
+C:\Users\maxde\RiderProjects\ImageResizeGame\ImageResizeForm\bin\Debug\ImageResizeForm.pdb
+C:\Users\maxde\RiderProjects\ImageResizeGame\ImageResizeForm\obj\Debug\ImageResizeForm.csproj.AssemblyReference.cache
+C:\Users\maxde\RiderProjects\ImageResizeGame\ImageResizeForm\obj\Debug\ImageResizeForm.Properties.Resources.resources
+C:\Users\maxde\RiderProjects\ImageResizeGame\ImageResizeForm\obj\Debug\ImageResizeForm.csproj.GenerateResource.cache
+C:\Users\maxde\RiderProjects\ImageResizeGame\ImageResizeForm\obj\Debug\ImageResizeForm.csproj.CoreCompileInputs.cache
+C:\Users\maxde\RiderProjects\ImageResizeGame\ImageResizeForm\obj\Debug\ImageResizeForm.exe
+C:\Users\maxde\RiderProjects\ImageResizeGame\ImageResizeForm\obj\Debug\ImageResizeForm.pdb
+C:\Users\maxde\RiderProjects\ImageResizeGame\ImageResizeForm\obj\Debug\ImageResizeForm.Main.resources
